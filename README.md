@@ -1,2 +1,2 @@
-# Meu Portifolio de Projetos Data Science
+# Meu Portfólio de Projetos Data Science
 Portfólio de Projetos

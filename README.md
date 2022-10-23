@@ -27,5 +27,7 @@ I am an Anthropologist, Bachelor and Master in Social Sciences. I live on the is
 ## Projetos:
 
 * **Titanic: uma análise do naufrágio utilizando Data Science (Ciência de Dados):** https://bit.ly/3qkRApC
+* **Análise de Dados da Empresa** https://
+
 ---
 

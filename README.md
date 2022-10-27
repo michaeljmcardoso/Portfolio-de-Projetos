@@ -18,7 +18,7 @@ Contribuí, por meio da elaboração de Relatórios e Pareceres Técnico-cientí
 I am an Anthropologist, Bachelor and Master in Social Sciences. I live on the island of São Luis do Maranhão, where I have been working for ten years as an Anthropologist, specialist in Land Regularization of Quilombola Territories. I work with Ethnographic Field Research, which involves practices such as survey, treatment and analysis of qualitative and quantitative data, elaboration and application of questionnaires and interviews, to compose anthropological reports.
 I contributed, through the preparation of Technical-Scientific Reports and Opinions, to the publication of 08 Technical Reports on the Identification and Delimitation (RTID) of quilombola territories. For a year and two months I was Coordinator of my own sector, the Service of Regularization of Quilombola Territories-MA, thus acquiring experience also in the field of Management. During this period, two Titles of Domain (TD's) were issued to quilombola communities with an administrative process in Incra-MA. I like technology solutions. My goal is to transform my career and become a Data Scientist.
 
-**Background in:** Python,Javascript, HTML5, CSS3).
+**Background in:** Python, Javascript, HTML5, CSS3).
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/michael-cardoso-84a9a0b2/)
@@ -29,6 +29,7 @@ I contributed, through the preparation of Technical-Scientific Reports and Opini
 
 * **Titanic: uma análise do naufrágio utilizando Data Science:** https://bit.ly/3qkRApC
 * **Análise de Dados da Empresa:** https://bit.ly/3DoUO2D
+* **Analisando os Dados do Airbnb, Santiago del Chile:** https://bit.ly/3Ng0wY8
 
 ---
 

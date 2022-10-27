@@ -27,7 +27,6 @@ I contributed, through the preparation of Technical-Scientific Reports and Opini
 
 ## Projetos:
 
-* **Titanic: uma análise do naufrágio utilizando Data Science:** https://bit.ly/3qkRApC
 * **Análise de Dados da Empresa:** https://bit.ly/3DoUO2D
 * **Analisando os Dados do Airbnb, Santiago del Chile:** https://bit.ly/3Ng0wY8
 

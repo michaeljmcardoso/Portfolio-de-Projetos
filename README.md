@@ -29,7 +29,7 @@ I contributed, through the preparation of Technical-Scientific Reports and Opini
 
 * **Analisando os Dados do Airbnb, Santiago del Chile:** http://bit.ly/3tNeZlc
   * **Artigo no Medium:** http://bit.ly/3i4w5IL 
-* **Análise de Dados da Empresa:** https://
+* **Analisando Dados da Empresa:** https://bit.ly/3FYcIJH
 * **Matplotlib: Visualização de Dados (como plotar um Histograma com Python):** https://
 
 ---

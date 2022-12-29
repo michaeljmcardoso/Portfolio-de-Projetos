@@ -4,7 +4,7 @@ Portfólio de Projetos
 [![author](https://img.shields.io/badge/author-michaelcardoso-red.svg)](https://www.linkedin.com/in/michael-cardoso-84a9a0b2/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/michaeljmcardoso/Portfolio-de-Projetos_DataScience)
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGF0YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" >
+  <img src="https://miro.medium.com/max/720/1*LI7W501SErbGaQxTYDOKLA.webp">
 </p>
 
 # Michael J M Cardoso

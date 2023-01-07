@@ -12,8 +12,6 @@ My Python & Data Science Project Portfolio
 
 Sou Antropólogo, Bacharel e Mestre em Ciências Sociais. Cientista de Dados.
 
-Fluente em Francês, com Inglês intermediário.
-
 Moro na ilha de São Luis do Maranhão (Brasil), onde trabalho há dez anos como Antropólogo, especialista em Regularização Fundiária de Territórios Quilombolas no Instituto Nacional de Colonização e Reforma Agrária-INCRA.
 
 Basicamente, trabalho com Pesquisa de Campo Etnográfica, que envolve práticas como levantamento, tratamento e análise de dados qualitativos e quantitativos, elaboração e aplicação de questionários (survey) e entrevistas, para compor relatórios antropológicos. Neste aspecto, percebo uma interface das Ciências Sociais (Antropologia, Sociologia e Ciência Política) com a Ciência de Dados, ao orientar suas análises também com base em dados. Com o destaque de que na pesquisa etnográfica esses dados são comumente catalogados em primeira mão pelo pesquisador-antropólogo, que trabalha desde o levantamento bibliográfico, a concepção do questionário e/ou do roteiro de entrevistas, passando pela coleta, sistematização e análise dos dados para composição de relatórios.
@@ -28,8 +26,6 @@ Humanista de formação, porém apaixonado pela área de Tecnologia. Penso em fu
 
 I am an Anthropologist, Bachelor and Master in Social Sciences. Data Scientist.
 
-Fluent French, with intermediate English.
-
 I live on the island of São Luis in Maranhão (Brazil), where I have been working for ten years as an Anthropologist, specialist in Land Regularization of Quilombola Territories at the National Institute of Colonization and Agrarian Reform - INCRA.
 
 Basically, I work with Ethnographic Field Research, which involves practices such as surveying, treatment and analysis of qualitative and quantitative data, preparation and application of questionnaires (survey) and interviews, to compose anthropological reports. In this regard, I perceive an interface between the Social Sciences (Anthropology, Sociology and Political Science) and Data Science, as they guide their analyzes also based on data. With the emphasis on the fact that in ethnographic research these data are commonly cataloged firsthand by the researcher-anthropologist, who works from the bibliographic survey, the design of the questionnaire and/or the interview script, through the collection, systematization and analysis of data to report composition.
@@ -39,6 +35,8 @@ Throughout this professional path, I was able to contribute directly, through th
 For more than a year I was Coordinator of my own sector, the Regularization Service of Quilombola Territories-MA, thus acquiring experience also in the field of Management in the context of a public policy. During this period, three Domain Titles (TD's) were issued for quilombola communities with an administrative process at Incra-MA, the issuance and delivery of the Title to quilombola communities is the last phase of the regularization processes.
 
 Humanist by training, but passionate about technology. I am thinking about future area migration. But, initially, my goal is to try to reconcile the two areas and thus transform my career, increasingly exploring the interface between Anthropology and Data Science.
+
+**Idiomas:** Fluente em Francês, com Inglês intermediário / Fluent French, with intermediate English.
 
 **Background in:** Python, SQL, Data Storytelling, Javascript, HTML5, CSS3.
 

@@ -55,6 +55,7 @@ Humanist by training, but passionate about technology. I am thinking about futur
   * **Artigo no Medium:** https://
 * **Regularização Fundiária de Territórios Quilombolas: interface entre Antropologia e Ciência de Dados:** https://
   * **Artigo no Medium:** https://
+* **Como plotar um Histograma:** 
 
 ---
 

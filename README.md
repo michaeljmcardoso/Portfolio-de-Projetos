@@ -51,11 +51,12 @@ Humanist by training, but passionate about technology. I am thinking about futur
   * **Artigo no Medium:** http://bit.ly/3i4w5IL 
 * **Controle da Empresa: analisando dados com Pandas:** https://bit.ly/3Z1bmGI
   * **Artigo no Medium:** https://bit.ly/3vvWjXY
-* **Matplotlib: Visualização de Dados (como plotar gráficos com Python):** https://
+* **Visualização de Dados: como plotar gráficos com Python:** https://
   * **Artigo no Medium:** https://
 * **Regularização Fundiária de Territórios Quilombolas: interface entre Antropologia e Ciência de Dados:** https://
   * **Artigo no Medium:** https://
-* **Como plotar um Histograma:** 
+* **Quando usar e como plotar um Histograma:** 
+  * **Artigo no Medium:** https://
 
 ---
 

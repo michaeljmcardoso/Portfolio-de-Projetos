@@ -59,6 +59,7 @@ Humanist by training, but passionate about technology. I am thinking about futur
   * **Artigo no Medium:** https://
   
 * **Resenha | Data Science do Zero: noções fundamentais com Python:** https://bit.ly/3WbyYWE
+  * **Artigo no Medium:** http://bit.ly/3Moz75z
 
 ---
 

@@ -1,5 +1,5 @@
-# Meu Portfólio de Projetos Python & Data Science
-My Python & Data Science Project Portfolio
+# Meu Portfólio de Projetos Data Science
+My Data Science Project Portfolio
 
 [![author](https://img.shields.io/badge/author-michaelcardoso-red.svg)](https://www.linkedin.com/in/michael-cardoso-84a9a0b2/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/michaeljmcardoso/Portfolio-de-Projetos_DataScience)
 
@@ -51,7 +51,7 @@ Humanist by training, but passionate about technology. I am thinking about futur
   * **Artigo no Medium:** http://bit.ly/3i4w5IL 
 * **Controle da Empresa: analisando dados com Pandas:** https://bit.ly/3Z1bmGI
   * **Artigo no Medium:** https://bit.ly/3vvWjXY
-* **Visualização de Dados: como plotar gráficos com Python:** https://
+* **Visualização de Dados: Gráfico de Waffle:** https://
   * **Artigo no Medium:** https://
 * **Regularização Fundiária de Territórios Quilombolas: interface entre Antropologia e Ciência de Dados:** https://
   * **Artigo no Medium:** https://

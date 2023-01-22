@@ -55,8 +55,8 @@ Humanist by training, but passionate about technology. I am thinking about futur
   * **Artigo no Medium:** https://
 * **Regularização Fundiária de Territórios Quilombolas: interface entre Antropologia e Ciência de Dados:** https://
   * **Artigo no Medium:** https://
-* **Quando usar e como plotar um Histograma:** 
-  * **Artigo no Medium:** https://
+* **Quando usar e como plotar um Histograma usando Python:** 
+  * **Artigo no Medium:** http://bit.ly/3JaR20h
   
 * **Resenha | Data Science do Zero: noções fundamentais com Python:** https://bit.ly/3w2ADmC
   * **Artigo no Medium:** http://bit.ly/3Moz75z

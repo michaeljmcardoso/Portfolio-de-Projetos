@@ -53,8 +53,8 @@ Humanist by training, but passionate about technology. I am thinking about futur
   * **Artigo no Medium:** https://bit.ly/3vvWjXY
 * **Visualização de Dados: Gráfico de Waffle:** https://
   * **Artigo no Medium:** https://
-* **Regularização Fundiária de Territórios Quilombolas: interface entre Antropologia e Ciência de Dados:** https://
-  * **Artigo no Medium:** https://
+* **Interfaces entre Antropologia e Ciência de Dados:** https://http://bit.ly/3GXNhZe
+  * **Artigo no Medium:** https://http://bit.ly/3Wztdlx
 * **Quando usar e como plotar um Histograma usando Python:** http://bit.ly/3wmjk02
   * **Artigo no Medium:** http://bit.ly/3JaR20h
   

@@ -10,7 +10,7 @@ My Data Science Project Portfolio
 # Michael J M Cardoso
 <sub>*Antropólogo e Cientista de Dados* </sub>
 
-Sou Antropólogo, Bacharel e Mestre em Ciências Sociais. Cientista de Dados.
+Sou Antropólogo, Bacharel e Mestre em Ciências Sociais. Estudante de Ciência de Dados.
 
 Moro na ilha de São Luis do Maranhão (Brasil), onde trabalho há dez anos como Antropólogo, especialista em Regularização Fundiária de Territórios Quilombolas no Instituto Nacional de Colonização e Reforma Agrária-INCRA.
 
@@ -24,7 +24,7 @@ Humanista de formação, porém apaixonado pela área de Tecnologia. Penso em fu
 
 <sub>*Anthropologist and Data Scientist* </sub>
 
-I am an Anthropologist, Bachelor and Master in Social Sciences. Data Scientist.
+I am an Anthropologist, Bachelor and Master in Social Sciences. Data Science Student.
 
 I live on the island of São Luis in Maranhão (Brazil), where I have been working for ten years as an Anthropologist, specialist in Land Regularization of Quilombola Territories at the National Institute of Colonization and Agrarian Reform - INCRA.
 

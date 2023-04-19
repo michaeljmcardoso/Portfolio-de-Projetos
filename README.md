@@ -12,15 +12,15 @@ My Data Science Project Portfolio
 
 Sou Antropólogo, Bacharel e Mestre em Ciências Sociais. Cientista de Dados.
 
-Moro na ilha de São Luis do Maranhão (Brasil), onde trabalho há dez anos como Antropólogo, especialista em Regularização Fundiária de Territórios Quilombolas no Instituto Nacional de Colonização e Reforma Agrária-INCRA.
+Moro na ilha de São Luís do Maranhão (Brasil), onde trabalho há dez anos como Antropólogo, especialista em Regularização Fundiária de Territórios Quilombolas no Instituto Nacional de Colonização e Reforma Agrária-INCRA.
 
-Basicamente, trabalho com Pesquisa de Campo Etnográfica, que envolve práticas como levantamento, tratamento e análise de dados qualitativos e quantitativos, elaboração e aplicação de questionários (survey) e entrevistas, para compor relatórios antropológicos. Neste aspecto, percebo uma interface das Ciências Sociais (Antropologia, Sociologia e Ciência Política) com a Ciência de Dados, ao orientar suas análises também com base em dados. Com o destaque de que na pesquisa etnográfica esses dados são comumente catalogados em primeira mão pelo pesquisador-antropólogo, que trabalha desde o levantamento bibliográfico, a concepção do questionário e/ou do roteiro de entrevistas, passando pela coleta, sistematização e análise dos dados para composição de relatórios.
+Basicamente, trabalho com Pesquisa de Campo Etnográfica, que envolve práticas como levantamento, tratamento e análise de dados qualitativos e quantitativos, elaboração e aplicação de questionários (survey) e entrevistas, para compor relatórios antropológicos. 
 
-Ao longo deste percusso profissional pude contribuir diretamente, por meio da elaboração de Relatórios e Pareceres Técnico-científicos, para publicação de mais de 10 Relatórios Técnicos de Identificação e Delimitação (RTID) de territórios quilombolas com demandas por regularização fundiária no INCRA do Maranhão.
+Contribuí diretamente, por meio da elaboração de Relatórios e Pareceres Técnico-científicos, para publicação de mais de 10 Relatórios Técnicos de Identificação e Delimitação (RTID) de territórios quilombolas com demandas por regularização fundiária no INCRA do Maranhão.
 
-Durante mais de um ano fui Coordenador do meu próprio setor, o Serviço de Regularização dos Territórios Quilombolas-MA, adquirindo assim experiência também no campo de Gestão no contexto de uma política pública. Nesse período foram emitidos três Títulos de Domínio (TD's) para comunidades quilombolas com processo administrativo no Incra-MA, a emissão e entrega do Título para as comunidades quilombolas é a última fase dos processos de regularização.
+Durante mais de um ano fui Coordenador do meu próprio setor, o Serviço de Regularização dos Territórios Quilombolas-MA, adquirindo assim experiência também no campo de Gestão no contexto de uma política pública. Nesse período foram emitidos três Títulos de Domínio (TD's) para comunidades quilombolas com processo administrativo no Incra-MA. A emissão e entrega do Título para as comunidades quilombolas é a última fase dos processos de regularização.
 
-Humanista de formação, porém apaixonado pela área de Tecnologia. Penso em futura migração de área. Mas, inicialmente, meu objetivo é tentar conciliar as duas áreas e assim transformar minha carreira, explorando cada vez mais a interface da Antropologia com a Ciência de Dados.
+Estudando Ciência de Dados, percebi uma interface da Antropologia com a Ciência de Dados: ambos os campos dependem fortemente da coleta e análise de dados, e ambos visam entender o comportamento e os padrões humanos. Além disso, ambos os campos podem se beneficiar do uso de novas tecnologias e metodologias, como aprendizado de máquina e análise de big data. Nesse sentido, tenho buscado em meus projetos de estudo algumas aproximações entre as Ciências Sociais e Ciências de Dados. Pessoalmente, estou muito interessado em problemas relacionados ao Processamento de Linguagem Natural e às ciências sociais, buscando conhecer projetos relacionados a eles. 
 
 <sub>*Anthropologist and Data Scientist* </sub>
 
@@ -34,7 +34,7 @@ I contributed directly, through the preparation of Technical-Scientific Reports 
 
 For more than a year I was Coordinator of my own sector, the Regularization Service of Quilombola Territories-MA, thus acquiring experience also in the field of Management in the context of a public policy. During this period, three Domain Titles (TD's) were issued to quilombola communities with an administrative process at Incra-MA. The issuance and delivery of the Title to the quilombola communities is the last phase of the regularization processes.
 
-Studying Data Science, I noticed an interface between Anthropology and Data Science: both fields rely heavily on data collection and analysis, and both aim to understand human behavior and patterns. Furthermore, both fields can benefit from the use of new technologies and methodologies such as machine learning and big data analytics.
+Studying Data Science, I noticed an interface between Anthropology and Data Science: both fields rely heavily on data collection and analysis, and both aim to understand human behavior and patterns. Furthermore, both fields can benefit from the use of new technologies and methodologies such as machine learning and big data analytics. In this sense, I have sought in my study projects some approximations between Social Sciences and Data Sciences. Personally, I'm very interested in problems related to Natural Language Processing and the social sciences, looking to learn about projects related to them.
 
 **Portfólio:** https://github.com/michaeljmcardoso/Portfolio-de-Projetos_DataScience.git
 

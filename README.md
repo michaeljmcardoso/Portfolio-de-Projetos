@@ -53,7 +53,7 @@ Studying Data Science, I noticed an interface between Anthropology and Data Scie
   * **Artigo no Medium:** http://bit.ly/3i4w5IL 
 * **Controle da Empresa: analisando dados com Pandas:** https://bit.ly/3Z1bmGI
   * **Artigo no Medium:** https://bit.ly/3vvWjXY
-* **Visualização de Dados: Gráfico de Waffle:** https://
+* **Visualização de Dados: Gráfico de Waffle:** https://bit.ly/3LaXlkL
   * **Artigo no Medium:** https://
 * **Interfaces entre Antropologia e Ciência de Dados:** https://http://bit.ly/3GXNhZe
   * **Artigo no Medium:** https://http://bit.ly/3Wztdlx

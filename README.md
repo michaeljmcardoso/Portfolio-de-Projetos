@@ -1,4 +1,4 @@
-# Meu Portfólio de Projetos Data Science
+oi# Meu Portfólio de Projetos Data Science
 My Data Science Project Portfolio
 
 [![author](https://img.shields.io/badge/author-michaelcardoso-red.svg)](https://www.linkedin.com/in/michael-cardoso-84a9a0b2/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/michaeljmcardoso/Portfolio-de-Projetos_DataScience)
@@ -59,6 +59,7 @@ Studying Data Science, I noticed an interface between Anthropology and Data Scie
   * **Artigo no Medium:** https://http://bit.ly/3Wztdlx
 * **Quando usar e como plotar um Histograma usando Python:** http://bit.ly/3wmjk02
   * **Artigo no Medium:** http://bit.ly/3JaR20h
+* **Como Criar um DataFrame com Pandas:** https://github.com/michaeljmcardoso/DataFrame
   
 * **Resenha | Data Science do Zero: noções fundamentais com Python:** https://bit.ly/3w2ADmC
   * **Artigo no Medium:** http://bit.ly/3Moz75z

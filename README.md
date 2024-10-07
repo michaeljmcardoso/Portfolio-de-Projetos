@@ -47,6 +47,9 @@ In short, my professional career has been marked by dedication to Anthropology a
 
 ## Projetos/Projects:
 
+* **Sistema de Gerenciamento de Banco de Dados - SISREQ-Sistema de Regularização Quilombola:** https://bit.ly/3TYkkUu
+  * **Artigo no Medium:** https://bit.ly/3NgthVh
+  * **Artigo no Medium:** https://bit.ly/4eDCyD2
 * **Analisando os Dados do Airbnb, Santiago del Chile:** http://bit.ly/3tNeZlc
   * **Artigo no Medium:** http://bit.ly/3i4w5IL 
 * **Controle da Empresa: analisando dados com Pandas:** https://bit.ly/3Z1bmGI
